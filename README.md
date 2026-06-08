@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o Juliano! 👋
 
-<!--
-**juliano-digital/juliano-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em soluções Web e automação para negócios locais. Ajudo empresas a digitalizarem seus processos e alcançarem mais clientes através de aplicações web modernas e eficientes.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias que utilizo:
+- **Frontend & Web Apps:** Next.js, Vite, React, Tailwind CSS.
+- **Backend & Dados:** Supabase (Banco de Dados e Autenticação).
+- **Hospedagem & Deploy:** Vercel, Hostinger Horizon.
+- **Design:** Pacote Adobe (Photoshop, Illustrator).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meu Foco:
+Transformar ideias em ferramentas práticas que geram valor real para o comércio local. Se você tem um desafio na sua empresa e precisa de uma solução digital, vamos conversar!
+
+---
+*Em constante aprendizado e sempre buscando novas formas de automatizar o futuro.*
